@@ -1,0 +1,13 @@
+.navbar {
+}
+
+.navbar ul li * {
+    text-decoration: none;
+}
+
+.navbar ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 1%;
+
+}
