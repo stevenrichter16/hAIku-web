@@ -11,7 +11,7 @@ The goal of the hAIku web is to develop a web version of hAIku in order to reach
 
 **Current State of the App**:
 
-hAIku web is in the early stages of development. Currently the app has a functioning poem generator and a page that displays the saved poems. As of now there is no authentication functionality, so the poem generator is unable to be used by the general public. The saved poems are able to be viewed both as a grid and as a table, and a filter option is available so users can filter poems by poem topic.
+hAIku web is in the early stages of development. Currently the app has a functioning poem generator and a page that displays the saved poems. As of now there is no authentication functionality, so the poem generator is unable to be used by the general public. The saved poems are able to be viewed both as a grid and as a table, and a filter option is available so users can filter poems by poem topic. However, despite these features, there is still lots of functionality and styling to add.
 
 
 **Languages and Technologies**:
