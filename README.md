@@ -3,8 +3,6 @@ A ReactJS version of the original hAIku app I built with React Native
 
 https://haiku-site.web.app/
 
-NOTE: If you install this app in your environment it will not work since I had to remove sensitive information like API keys and configuration details.
-
 **Motivation**:
 
 The motivation for the hAIku web app (hAIku web) came after developing the hAIku React Native app. I wanted to develop a web version of the app, so I began development using ReactJS.
